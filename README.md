@@ -15,11 +15,6 @@ Este projeto é uma aplicação web que exibe um catálogo de livros, permitindo
 
 ## 📸 Imagem do projeto
 
-![image]()
-
-![image]()
-
-
 <table>
   <tr>
     <td><img src="https://github.com/ArrudaaJunior/AluraBooksComJS/assets/34192862/0477cd19-0b82-4138-af80-f63275eaba8b" alt="imagem do projeto" width="500"></td>
